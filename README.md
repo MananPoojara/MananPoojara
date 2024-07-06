@@ -14,7 +14,7 @@
 <img src="https://media.giphy.com/media/cvyz3Hw4d7EIw/giphy.gif?cid=ecf05e47tzt2zte9ahrtwpu7a0eg30qveebnvu3qq42mehg9&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="40%"/>
 <br><br>
     
-[![](https://img.shields.io/badge/linkedin-0a66c2)](http://linkedin.com/in/ingridrosselis)
+[![](https://img.shields.io/badge/linkedin-0a66c2)](https://www.linkedin.com/in/manan-pujara-62a51a300)
 [![](https://img.shields.io/badge/dev.to-6364ff)](https://dev.to/mananpoojara)
 [![](https://img.shields.io/badge/reddit-ff66ab)](https://www.reddit.com/user/Alex_0004/)
 [![](https://img.shields.io/badge/youtube-69899c)](https://www.youtube.com/channel/UCxfo9z4DnI3mej1nVZpEtoQ)
