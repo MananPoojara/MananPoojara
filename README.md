@@ -15,6 +15,5 @@
     
 [![](https://img.shields.io/badge/linkedin-0a66c2)](https://www.linkedin.com/in/manan-pujara-62a51a300)
 [![](https://img.shields.io/badge/dev.to-6364ff)](https://dev.to/mananpoojara)
-[![](https://img.shields.io/badge/reddit-ff66ab)](https://www.reddit.com/user/Alex_0004/)
 [![](https://img.shields.io/badge/youtube-69899c)](https://www.youtube.com/channel/UCxfo9z4DnI3mej1nVZpEtoQ)
 </div>
