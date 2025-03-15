@@ -1,19 +1,63 @@
+# **👋 Hey, I'm Manan Pujara!**  
+### **Data Enthusiast | MERN Stack Developer | Exploring Data Engineering 🚀**  
+
 <div align="center">
 <img src="https://github.com/innng/innng/assets/26755058/5e0ce0fb-c544-4f8c-a307-5849165746d0" width="25%" height="150%" align="right" />
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+hello;I'm+Manan%2C+a+tech+nerd%E2%9C%A9" width="70%" />
-<br>
-<pre>
-    👩‍💻 Full Stack Developer in Learning Phase • BTech CE Student
-    💼 Studying BTech in Computer Engineering
-    💻 Front-end and Back-end Devewlopment
-    📖 Exploring BackProgramming Languages, DevOps, and Performance Tuning
-    🎮 Interest in Reading, Anime And Code
-    🐾 Enjoys Reading 📖 , Anime and Learning New Things 🐤🐥  
-</pre>
-<br>
-<br>
-    
-[![](https://img.shields.io/badge/linkedin-0a66c2)](https://www.linkedin.com/in/manan-pujara-62a51a300)
-[![](https://img.shields.io/badge/dev.to-6364ff)](https://dev.to/mananpoojara)
-[![](https://img.shields.io/badge/youtube-69899c)](https://www.youtube.com/channel/UCxfo9z4DnI3mej1nVZpEtoQ)
+
+```yaml
+💻 Full-Stack Developer with a passion for Data Engineering
+📊 Exploring ML, Data Cleaning & Big Data Processing
+🔍 Solving DSA problems & working on real-world projects
+⚙️ Linux power user, automating workflows & system management
+🎯 Focused on building scalable & high-performance applications
+🎮 Love tech, anime, and always up for learning new things!
+```
 </div>
+
+---
+
+## **🚀 Tech Stack & Tools**
+### **💡 Programming & Scripting**
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### **🌐 Web & Backend**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### **☁️ Cloud & DevOps**
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+### **🛠 Data Engineering & ML**
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-EB5E2A?style=for-the-badge)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+---
+
+## **🌟 Projects & Contributions**
+- **[🏏 Cricket Score Prediction](https://github.com/MananPoojara/Score-Card-prediction)** - ML-powered system predicting final cricket scores based on real-time match data.  
+- **[🔗 PLayNoise.js](https://github.com/MananPoojara/PlayNoise.js)** - Creating music with the browser. From Speech to Musical Instrument  
+- **[💰 Hertzbeat](https://github.com/MananPoojara/hertzbeat)** - Apache HertzBeat is a real-time monitoring system with agentless, performance cluster, prometheus-compatible, custom monitoring and status page building capabilities.
+- **[🔧 More Projects...](https://github.com/MananPoojara?tab=repositories)**  
+
+---
+
+## **📬 Connect With Me**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manan-pujara-62a51a300)  
+[![Dev.to](https://img.shields.io/badge/Dev.to-6364ff?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/mananpoojara)  
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCxfo9z4DnI3mej1nVZpEtoQ)  
+
+---
+
+### **🎯 Always Learning, Always Building 🚀**
+Let's connect and build something amazing together! 🔥  
